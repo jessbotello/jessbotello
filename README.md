@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a passionate Software Engineer with a strong backgroun
 
 <h2><strong>🎯 What I’m Looking For</strong></h2>
 
-* I’m actively seeking new opportunities where I can apply my skills in software engineering, data processing, and backend development to drive innovation and efficiency. If you're hiring or looking to collaborate, feel free to connect!
+I’m actively seeking new opportunities where I can apply my skills in software engineering, data processing, and backend development to drive innovation and efficiency. If you're hiring or looking to collaborate, feel free to connect!
 
 📩 Let's Connect: LinkedIn | Email
 
