@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a passionate Software Engineer with a strong background in data engineering, backend development, and system optimization. I thrive in dynamic environments where I can solve complex problems, collaborate with diverse teams, and continuously learn new technologies.
 
-👩‍💻 About Me
+<h2><strong>👩‍💻 About Me</strong></h2>
 
 💡 Experienced in designing and maintaining data ingestion services, integrating Oracle, S3, and Kafka for real-time data processing.
 
@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a passionate Software Engineer with a strong backgroun
 
 🚀 Passionate about growth, innovation, and problem-solving in the tech space.
 
-📂 What You'll Find Here
+<h2><strong>📂 What You'll Find Here</strong></h2>
 
 Projects & Contributions – A mix of backend, data engineering, and automation projects.
 
@@ -22,7 +22,7 @@ Technical Learning – Code snippets and experiments from my continuous learning
 
 Open Source & Collaboration – I love contributing to and learning from the community!
 
-🎯 What I’m Looking For
+<h2><strong>🎯 What I’m Looking For</strong></h2>
 
 I’m actively seeking new opportunities where I can apply my skills in software engineering, data processing, and backend development to drive innovation and efficiency. If you're hiring or looking to collaborate, feel free to connect!
 
