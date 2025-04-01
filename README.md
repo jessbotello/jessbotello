@@ -26,6 +26,6 @@ Welcome to my GitHub! I'm a passionate Software Engineer with a strong backgroun
 
 I’m actively seeking new opportunities where I can apply my skills in software engineering, data processing, and backend development to drive innovation and efficiency. If you're hiring or looking to collaborate, feel free to connect!
 
-📩 Let's Connect: LinkedIn: https://www.linkedin.com/in/jessica-botello-9066011a0/
+📩 Let's Connect: https://www.linkedin.com/in/jessica-botello-9066011a0/
 
 Thanks for stopping by! 🚀
