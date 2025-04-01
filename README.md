@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate Software Engineer with a strong backgroun
 
 <h2><strong>👩‍💻 About Me</strong></h2>
 
-💡 Experienced in designing and maintaining data ingestion services, integrating Oracle, S3, and Kafka for real-time data processing.
+* 💡 Experienced in designing and maintaining data ingestion services, integrating Oracle, S3, and Kafka for real-time data processing.
 
 📊 Skilled in SQL optimization, ETL processes, and data validation to enhance system performance and reliability.
 
